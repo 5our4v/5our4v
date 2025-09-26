@@ -22,7 +22,7 @@ Currently working on my undergraduate thesis: <b>Virtual Try-On Systems</b>.
 
 ### 📊 Languages I Use
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5our4v&locale=en&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=true" height="150" alt="Languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5our4v&locale=en&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=true" height="600" alt="Languages graph" />
 </div>
 
 ---
