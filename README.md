@@ -1,6 +1,6 @@
 <h3 align="center">Hi, I’m Sourav Paul 👋</h3>
 <p align="center">
-A <b>Software Developer</b> specializing in <b>Machine Learning</b> and <b>Computer Vision</b>.<br>
+Passionate about  <b>Software Development</b> specially in <b>Machine Learning</b> and <b>Computer Vision</b>.<br>
 Currently working on my undergraduate thesis: <b>Virtual Try-On Systems</b>.
 </p>
 
