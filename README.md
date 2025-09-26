@@ -1,55 +1,49 @@
-<h3 align="left">Hi, I’m Sourav Paul. I’m passionate about software development, with a focus on machine learning and computer vision. Currently pursuing my undergraduate thesis on Virtual Try-On systems. </h3>
+<h3 align="center">Hi, I’m Sourav Paul 👋</h3>
+<p align="center">
+A <b>Software Developer</b> specializing in <b>Machine Learning</b> and <b>Computer Vision</b>.<br>
+Currently working on my undergraduate thesis: <b>Virtual Try-On Systems</b>.
+</p>
 
-###
-<div align="left">
+---
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5our4v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="195" src="https://art.pixilart.com/sr2712ab0b35ecd.gif"  />
-
-###
-
+### 🛠️ Tech Stack
 <div align="center">
-  <a href="https://www.linkedin.com/in/souravpaul22/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="37" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="35" />
+</div>
+
+---
+
+### 📊 Languages I Use
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=5our4v&locale=en&layout=compact&card_width=400&langs_count=8&theme=dark&hide_border=true" height="150" alt="Languages graph" />
+</div>
+
+---
+### 🌐 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/sour4v/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
   </a>
-  <a href="sour4vp4ul@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="37" alt="gmail logo"  />
+  <a href="mailto:sourav.mte@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" height="28"/>
   </a>
-  <a href="https://www.facebook.com/5our4v/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="37" alt="facebook logo"  />
+  <a href="https://www.facebook.com/5our4v" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="28"/>
   </a>
   <a href="https://www.instagram.com/sour4v_v/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="37" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28"/>
   </a>
 </div>
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/s0ur4v26/s0ur4v26/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/s0ur4v26/s0ur4v26/output/snake.svg" alt="Snake animation" />
+</div>
