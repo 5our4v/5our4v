@@ -1,7 +1,8 @@
 <h3 align="center">Hi, I’m Sourav Paul 👋</h3>
 <p align="center">
 Passionate about <b>Software Development</b>, with a strong focus on <b>Machine Learning</b> and <b>Computer Vision</b>.<br>
-Currently working on my undergraduate thesis: <b>Virtual Try-On Systems</b>. The paper has been submitted to the <i>28th International Conference on Computer and Information Technology (ICCIT)</i> (Paper ID: 2203). The source code will be made publicly available after publication.
+Currently conducting my undergraduate thesis on <b>Virtual Try-On Systems</b>. The paper has been submitted to the <i>28th International Conference on Computer and Information Technology (ICCIT)</i> (Paper ID: 2203), and the source code will be publicly released following publication.
+
 
 </p>
 
