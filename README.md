@@ -1,4 +1,4 @@
-<h3 align="center">hey, sourav here </h3>
+<h3 align="center"> Hello , there .</h3>
 <p align="center">
 Passionate about <b>Software Development</b>, with a strong focus on <b>Machine Learning</b> and <b>Computer Vision</b>.<br>
 
