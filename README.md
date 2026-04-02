@@ -11,8 +11,7 @@
 
 <p align="center">
   <b>Passionate Software Developer</b> specializing in <b>Machine Learning</b> & <b>Computer Vision</b><br>
-  💡 Always eager to collaborate on innovative ML projects<br>
-  📍 Based in Dhaka, Bangladesh
+  📍 Dhaka, Bangladesh
 </p>
 
 ---
@@ -60,10 +59,7 @@
 
 <h2 align="center">🌐 Let's Connect!</h2>
 
-<p align="center">
-  I'm always open to interesting conversations and collaboration opportunities!<br>
-  Feel free to reach out through any of these platforms:
-</p>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sour4v/" target="_blank">
